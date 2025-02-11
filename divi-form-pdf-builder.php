@@ -3,7 +3,7 @@
 Plugin Name: Divi Form PDF Builder
 Plugin URI: https://github.com/dein-github-repo
 Description: Ein Beispiel-Plugin für automatische Updates von GitHub.
-Version: 1.0.0
+Version: 1.0.1
 Author:  Noël Schaller
 Author URI: https://deine-website.com
 License: GPL2
